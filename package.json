@@ -1,0 +1,23 @@
+{
+  "name": "mynewrepo",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberhorsey/mynewrepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyberhorsey/mynewrepo/issues"
+  },
+  "homepage": "https://github.com/cyberhorsey/mynewrepo#readme",
+  "dependencies": {
+    "@types/express": "^4.17.17",
+    "express": "^4.18.2"
+  }
+}
